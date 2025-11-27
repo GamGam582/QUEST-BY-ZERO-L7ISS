@@ -50,7 +50,7 @@ The ultimate userscript to complete Discord quests **AUTOMATICALLY** with **ONE 
 2. **Extract using the password:** `devgamgam`
 3. **Copy the script code** from the extracted file
 4. **Open Discord** in your pc
-5. **Press `F12` or `ctrl+shift+i` ** to open Developer Tools
+5. **Press `F12` or `ctrl+shift+i`** to open Developer Tools
 6. **Go to Console tab** and paste the code
 7. **Press Enter** to execute and enjoy!
 
