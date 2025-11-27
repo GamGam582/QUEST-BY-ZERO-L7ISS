@@ -74,4 +74,4 @@ Join our support channel for assistance and troubleshooting!
 👑 **DEVELOPED BY: ZERO L7ISS**
 *"Making Discord better, one quest at a time"* ✨
 
-![Uploading USER.png…]()
+<img width="2208" height="1133" alt="USER" src="https://github.com/user-attachments/assets/41e572c2-55e0-4d34-b710-13587c9195fb" />
